@@ -1,0 +1,10 @@
+.header-title {
+    margin-bottom: 0;
+}
+
+.header-info {
+    align-self: end;
+    color: grey;
+    font-size: 1.25rem;
+    text-align: end;
+}
