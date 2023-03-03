@@ -1,3 +1,4 @@
-# Todo List which I did while learning base of React
+# Todo List
 
-A simple todo list with filter, search and adding new todos possibility. I did it while learning base of React. It uses Bootstrap.
+A simple todo list with filter, search and adding new todos possibility. Classic app for portfolio of frontend developer :) 
+It based on React and Bootstrap.
